@@ -1,4 +1,4 @@
-# Game Content Cache Hostnames
+# Content Cache Hostnames
 
 ## Introduction
 
