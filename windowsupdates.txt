@@ -9,3 +9,4 @@ amupdatedl2.microsoft.com
 amupdatedl3.microsoft.com
 amupdatedl4.microsoft.com
 amupdatedl5.microsoft.com
+*.download.prss.microsoft.com
