@@ -4,4 +4,4 @@ riotgamespatcher-a.akamaihd.net
 riotgamespatcher-a.akamaihd.net.edgesuite.net
 *.dyn.riotcdn.net
 *.gpipe.garenanow.com
-cdn.gxx.garenanow.com
+*.gxx.garenanow.com
