@@ -1,2 +1,4 @@
+*.daumcdn.net
+*.videolan.org
 *.internetdownloadmanager.com
 *.me.gvt1.com
