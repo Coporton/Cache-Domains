@@ -1,4 +1,5 @@
 *.daumcdn.net
-*.videolan.org
+*.downloadvn.com
+*.kku.ac.th
 *.internetdownloadmanager.com
 *.me.gvt1.com
