@@ -1,1 +1,3 @@
 *.aaplimg.com
+*.apple.com
+*.cdn-apple.com
