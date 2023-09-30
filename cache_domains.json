@@ -126,6 +126,11 @@
 			"name": "softwares",
 			"description": "CDN for Common Softwares",
 			"domain_files": ["softwares.txt"]
+		},
+		{
+			"name": "iosupdate",
+			"description": "iOS Update",
+			"domain_files": ["iosupdates.txt"]
 		}
 	]
 }
