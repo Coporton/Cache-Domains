@@ -3,4 +3,3 @@
 *.kku.ac.th
 *.internetdownloadmanager.com
 *.me.gvt1.com
-downloads.wordpress.org
