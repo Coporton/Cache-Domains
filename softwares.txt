@@ -4,4 +4,3 @@
 *.internetdownloadmanager.com
 *.me.gvt1.com
 wordpress.org
-*.wordpress.org
