@@ -3,4 +3,4 @@
 *.kku.ac.th
 *.internetdownloadmanager.com
 *.me.gvt1.com
-*.wordpress.org
+downloads.wordpress.org
